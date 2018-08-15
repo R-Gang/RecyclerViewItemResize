@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RecyclerViewItemResize</string>
+
+    <string name="lipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis pellentesque orci nec tincidunt. Mauris gravida pretium quam non egestas
+    </string>
+
+</resources>
