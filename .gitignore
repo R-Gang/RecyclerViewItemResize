@@ -9,3 +9,5 @@ gradlew.bat
 local.properties
 .DS_Store
 LICENSE
+gradle.properties
+.gitattributes
